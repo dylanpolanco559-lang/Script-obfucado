@@ -1,0 +1,971 @@
+
+--[[
+███╗   ██╗███████╗██╗  ██╗██╗   ██╗███████╗    ██████╗  █████╗ ███╗   ██╗███████╗███████╗██╗███████╗███████╗
+████╗  ██║██╔════╝██║  ██║██║   ██║██╔════╝    ██╔══██╗██╔══██╗████╗  ██║██╔════╝██╔════╝██║██╔════╝██╔════╝
+██╔██╗ ██║█████╗  ███████║██║   ██║█████╗      ██████╔╝███████║██╔██╗ ██║█████╗  ███████╗██║█████╗  █████╗  
+██║╚██╗██║██╔══╝  ██╔══██║██║   ██║██╔══╝      ██╔══██╗██╔══██║██║╚██╗██║██╔══╝  ╚════██║██║██╔══╝  ██╔══╝  
+██║ ╚████║███████╗██║  ██║╚██████╔╝███████╗    ██████╔╝██║  ██║██║ ╚████║███████╗███████║██║███████╗███████╗
+╚═╝  ╚═══╝╚══════╝╚═╝  ╚═╝ ╚═════╝ ╚══════╝    ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═══╝╚══════╝╚══════╝╚═╝╚══════╝╚══════╝
+                                    :: ABYSSAL SHIELD - PROTECTED BY LX IA ::
+--]]
+local _nx_mloiv0_a = 9218 * 12 + (9218 / 3)
+local _nx_mloiv0_b = "sucvw90i56" .. string.reverse("sucvw90i56")
+if (_nx_mloiv0_a > 9999 and not false) or (_nx_mloiv0_b ~= "abcdef") then
+    for _nx_mloiv0_i = 1, 1 do local _nx_mloiv0_c = _nx_mloiv0_a % 5; end
+else
+    local _nx_mloiv0_d = {} for _nx_mloiv0_j = 1, 5 do _nx_mloiv0_d[_nx_mloiv0_j] = _nx_mloiv0_j * _nx_mloiv0_a end
+end
+local _nx_mloiv0_f = function() return _nx_mloiv0_a + string.len(_nx_mloiv0_b) end
+if false then _nx_mloiv0_f(); end -- Junk call
+local _nx_8vdm89_a = 6916 * 12 + (6916 / 3)
+local _nx_8vdm89_b = "dcsqzkyni8" .. string.reverse("dcsqzkyni8")
+if (_nx_8vdm89_a > 9999 and not false) or (_nx_8vdm89_b ~= "abcdef") then
+    for _nx_8vdm89_i = 1, 3 do local _nx_8vdm89_c = _nx_8vdm89_a % 11; end
+else
+    local _nx_8vdm89_d = {} for _nx_8vdm89_j = 1, 4 do _nx_8vdm89_d[_nx_8vdm89_j] = _nx_8vdm89_j * _nx_8vdm89_a end
+end
+local _nx_8vdm89_f = function() return _nx_8vdm89_a + string.len(_nx_8vdm89_b) end
+if true then _nx_8vdm89_f(); end -- Junk call
+local _nx_1cwck0_a = 9742 * 12 + (9742 / 3)
+local _nx_1cwck0_b = "7vk3ua65rp" .. string.reverse("7vk3ua65rp")
+if (_nx_1cwck0_a > 9999 and not true) or (_nx_1cwck0_b ~= "abcdef") then
+    for _nx_1cwck0_i = 1, 4 do local _nx_1cwck0_c = _nx_1cwck0_a % 10; end
+else
+    local _nx_1cwck0_d = {} for _nx_1cwck0_j = 1, 2 do _nx_1cwck0_d[_nx_1cwck0_j] = _nx_1cwck0_j * _nx_1cwck0_a end
+end
+local _nx_1cwck0_f = function() return _nx_1cwck0_a + string.len(_nx_1cwck0_b) end
+if true then _nx_1cwck0_f(); end -- Junk call
+local _nx_xdg0ge_a = 6712 * 12 + (6712 / 3)
+local _nx_xdg0ge_b = "ss9msrtn2h" .. string.reverse("ss9msrtn2h")
+if (_nx_xdg0ge_a > 9999 and not false) or (_nx_xdg0ge_b ~= "abcdef") then
+    for _nx_xdg0ge_i = 1, 2 do local _nx_xdg0ge_c = _nx_xdg0ge_a % 3; end
+else
+    local _nx_xdg0ge_d = {} for _nx_xdg0ge_j = 1, 1 do _nx_xdg0ge_d[_nx_xdg0ge_j] = _nx_xdg0ge_j * _nx_xdg0ge_a end
+end
+local _nx_xdg0ge_f = function() return _nx_xdg0ge_a + string.len(_nx_xdg0ge_b) end
+if false then _nx_xdg0ge_f(); end -- Junk call
+local _nx_w48o17_a = 4488 * 12 + (4488 / 3)
+local _nx_w48o17_b = "kx0hajoami" .. string.reverse("kx0hajoami")
+if (_nx_w48o17_a > 9999 and not false) or (_nx_w48o17_b ~= "abcdef") then
+    for _nx_w48o17_i = 1, 5 do local _nx_w48o17_c = _nx_w48o17_a % 10; end
+else
+    local _nx_w48o17_d = {} for _nx_w48o17_j = 1, 1 do _nx_w48o17_d[_nx_w48o17_j] = _nx_w48o17_j * _nx_w48o17_a end
+end
+local _nx_w48o17_f = function() return _nx_w48o17_a + string.len(_nx_w48o17_b) end
+if true then _nx_w48o17_f(); end -- Junk call
+local _nx_zkr6h4_a = 1141 * 12 + (1141 / 3)
+local _nx_zkr6h4_b = "4nlue9a9qn" .. string.reverse("4nlue9a9qn")
+if (_nx_zkr6h4_a > 9999 and not true) or (_nx_zkr6h4_b ~= "abcdef") then
+    for _nx_zkr6h4_i = 1, 4 do local _nx_zkr6h4_c = _nx_zkr6h4_a % 9; end
+else
+    local _nx_zkr6h4_d = {} for _nx_zkr6h4_j = 1, 4 do _nx_zkr6h4_d[_nx_zkr6h4_j] = _nx_zkr6h4_j * _nx_zkr6h4_a end
+end
+local _nx_zkr6h4_f = function() return _nx_zkr6h4_a + string.len(_nx_zkr6h4_b) end
+if false then _nx_zkr6h4_f(); end -- Junk call
+local _nx_gak9v4_a = 1721 * 12 + (1721 / 3)
+local _nx_gak9v4_b = "9egp1taon7" .. string.reverse("9egp1taon7")
+if (_nx_gak9v4_a > 9999 and not false) or (_nx_gak9v4_b ~= "abcdef") then
+    for _nx_gak9v4_i = 1, 1 do local _nx_gak9v4_c = _nx_gak9v4_a % 4; end
+else
+    local _nx_gak9v4_d = {} for _nx_gak9v4_j = 1, 3 do _nx_gak9v4_d[_nx_gak9v4_j] = _nx_gak9v4_j * _nx_gak9v4_a end
+end
+local _nx_gak9v4_f = function() return _nx_gak9v4_a + string.len(_nx_gak9v4_b) end
+if false then _nx_gak9v4_f(); end -- Junk call
+local _nx_zhsur4_a = 8962 * 12 + (8962 / 3)
+local _nx_zhsur4_b = "awsy8ryy79" .. string.reverse("awsy8ryy79")
+if (_nx_zhsur4_a > 9999 and not true) or (_nx_zhsur4_b ~= "abcdef") then
+    for _nx_zhsur4_i = 1, 2 do local _nx_zhsur4_c = _nx_zhsur4_a % 2; end
+else
+    local _nx_zhsur4_d = {} for _nx_zhsur4_j = 1, 3 do _nx_zhsur4_d[_nx_zhsur4_j] = _nx_zhsur4_j * _nx_zhsur4_a end
+end
+local _nx_zhsur4_f = function() return _nx_zhsur4_a + string.len(_nx_zhsur4_b) end
+if true then _nx_zhsur4_f(); end -- Junk call
+local _nx_wwkmrj_a = 7346 * 12 + (7346 / 3)
+local _nx_wwkmrj_b = "skqk6n6bwi" .. string.reverse("skqk6n6bwi")
+if (_nx_wwkmrj_a > 9999 and not true) or (_nx_wwkmrj_b ~= "abcdef") then
+    for _nx_wwkmrj_i = 1, 4 do local _nx_wwkmrj_c = _nx_wwkmrj_a % 5; end
+else
+    local _nx_wwkmrj_d = {} for _nx_wwkmrj_j = 1, 4 do _nx_wwkmrj_d[_nx_wwkmrj_j] = _nx_wwkmrj_j * _nx_wwkmrj_a end
+end
+local _nx_wwkmrj_f = function() return _nx_wwkmrj_a + string.len(_nx_wwkmrj_b) end
+if true then _nx_wwkmrj_f(); end -- Junk call
+local _nx_w5somb_a = 6877 * 12 + (6877 / 3)
+local _nx_w5somb_b = "zltpila77i" .. string.reverse("zltpila77i")
+if (_nx_w5somb_a > 9999 and not false) or (_nx_w5somb_b ~= "abcdef") then
+    for _nx_w5somb_i = 1, 4 do local _nx_w5somb_c = _nx_w5somb_a % 7; end
+else
+    local _nx_w5somb_d = {} for _nx_w5somb_j = 1, 5 do _nx_w5somb_d[_nx_w5somb_j] = _nx_w5somb_j * _nx_w5somb_a end
+end
+local _nx_w5somb_f = function() return _nx_w5somb_a + string.len(_nx_w5somb_b) end
+if true then _nx_w5somb_f(); end -- Junk call
+local _nx_zphnq9_a = 2215 * 12 + (2215 / 3)
+local _nx_zphnq9_b = "w601yolmhi" .. string.reverse("w601yolmhi")
+if (_nx_zphnq9_a > 9999 and not true) or (_nx_zphnq9_b ~= "abcdef") then
+    for _nx_zphnq9_i = 1, 5 do local _nx_zphnq9_c = _nx_zphnq9_a % 7; end
+else
+    local _nx_zphnq9_d = {} for _nx_zphnq9_j = 1, 5 do _nx_zphnq9_d[_nx_zphnq9_j] = _nx_zphnq9_j * _nx_zphnq9_a end
+end
+local _nx_zphnq9_f = function() return _nx_zphnq9_a + string.len(_nx_zphnq9_b) end
+if false then _nx_zphnq9_f(); end -- Junk call
+local _nx_d6mjy3_a = 7281 * 12 + (7281 / 3)
+local _nx_d6mjy3_b = "xecollz0nl" .. string.reverse("xecollz0nl")
+if (_nx_d6mjy3_a > 9999 and not false) or (_nx_d6mjy3_b ~= "abcdef") then
+    for _nx_d6mjy3_i = 1, 3 do local _nx_d6mjy3_c = _nx_d6mjy3_a % 4; end
+else
+    local _nx_d6mjy3_d = {} for _nx_d6mjy3_j = 1, 3 do _nx_d6mjy3_d[_nx_d6mjy3_j] = _nx_d6mjy3_j * _nx_d6mjy3_a end
+end
+local _nx_d6mjy3_f = function() return _nx_d6mjy3_a + string.len(_nx_d6mjy3_b) end
+if false then _nx_d6mjy3_f(); end -- Junk call
+local _nx_cgd8i8_a = 295 * 12 + (295 / 3)
+local _nx_cgd8i8_b = "ltz3hvbsu4" .. string.reverse("ltz3hvbsu4")
+if (_nx_cgd8i8_a > 9999 and not true) or (_nx_cgd8i8_b ~= "abcdef") then
+    for _nx_cgd8i8_i = 1, 5 do local _nx_cgd8i8_c = _nx_cgd8i8_a % 2; end
+else
+    local _nx_cgd8i8_d = {} for _nx_cgd8i8_j = 1, 4 do _nx_cgd8i8_d[_nx_cgd8i8_j] = _nx_cgd8i8_j * _nx_cgd8i8_a end
+end
+local _nx_cgd8i8_f = function() return _nx_cgd8i8_a + string.len(_nx_cgd8i8_b) end
+if true then _nx_cgd8i8_f(); end -- Junk call
+local _nx_aza2k7_a = 7977 * 12 + (7977 / 3)
+local _nx_aza2k7_b = "ptly6gkaej" .. string.reverse("ptly6gkaej")
+if (_nx_aza2k7_a > 9999 and not false) or (_nx_aza2k7_b ~= "abcdef") then
+    for _nx_aza2k7_i = 1, 3 do local _nx_aza2k7_c = _nx_aza2k7_a % 6; end
+else
+    local _nx_aza2k7_d = {} for _nx_aza2k7_j = 1, 5 do _nx_aza2k7_d[_nx_aza2k7_j] = _nx_aza2k7_j * _nx_aza2k7_a end
+end
+local _nx_aza2k7_f = function() return _nx_aza2k7_a + string.len(_nx_aza2k7_b) end
+if false then _nx_aza2k7_f(); end -- Junk call
+local _nx_jys1l8_a = 5470 * 12 + (5470 / 3)
+local _nx_jys1l8_b = "s4dkynozg3" .. string.reverse("s4dkynozg3")
+if (_nx_jys1l8_a > 9999 and not true) or (_nx_jys1l8_b ~= "abcdef") then
+    for _nx_jys1l8_i = 1, 5 do local _nx_jys1l8_c = _nx_jys1l8_a % 2; end
+else
+    local _nx_jys1l8_d = {} for _nx_jys1l8_j = 1, 2 do _nx_jys1l8_d[_nx_jys1l8_j] = _nx_jys1l8_j * _nx_jys1l8_a end
+end
+local _nx_jys1l8_f = function() return _nx_jys1l8_a + string.len(_nx_jys1l8_b) end
+if false then _nx_jys1l8_f(); end -- Junk call
+local _nx_rqxx34_a = 2447 * 12 + (2447 / 3)
+local _nx_rqxx34_b = "r5xmf1ak6f" .. string.reverse("r5xmf1ak6f")
+if (_nx_rqxx34_a > 9999 and not true) or (_nx_rqxx34_b ~= "abcdef") then
+    for _nx_rqxx34_i = 1, 2 do local _nx_rqxx34_c = _nx_rqxx34_a % 5; end
+else
+    local _nx_rqxx34_d = {} for _nx_rqxx34_j = 1, 4 do _nx_rqxx34_d[_nx_rqxx34_j] = _nx_rqxx34_j * _nx_rqxx34_a end
+end
+local _nx_rqxx34_f = function() return _nx_rqxx34_a + string.len(_nx_rqxx34_b) end
+if false then _nx_rqxx34_f(); end -- Junk call
+local _nx_lyo2jq_a = 8846 * 12 + (8846 / 3)
+local _nx_lyo2jq_b = "kupsa5xwnb" .. string.reverse("kupsa5xwnb")
+if (_nx_lyo2jq_a > 9999 and not false) or (_nx_lyo2jq_b ~= "abcdef") then
+    for _nx_lyo2jq_i = 1, 5 do local _nx_lyo2jq_c = _nx_lyo2jq_a % 5; end
+else
+    local _nx_lyo2jq_d = {} for _nx_lyo2jq_j = 1, 3 do _nx_lyo2jq_d[_nx_lyo2jq_j] = _nx_lyo2jq_j * _nx_lyo2jq_a end
+end
+local _nx_lyo2jq_f = function() return _nx_lyo2jq_a + string.len(_nx_lyo2jq_b) end
+if false then _nx_lyo2jq_f(); end -- Junk call
+local _nx_29vyed_a = 4232 * 12 + (4232 / 3)
+local _nx_29vyed_b = "vfnpvowqg7" .. string.reverse("vfnpvowqg7")
+if (_nx_29vyed_a > 9999 and not true) or (_nx_29vyed_b ~= "abcdef") then
+    for _nx_29vyed_i = 1, 1 do local _nx_29vyed_c = _nx_29vyed_a % 11; end
+else
+    local _nx_29vyed_d = {} for _nx_29vyed_j = 1, 5 do _nx_29vyed_d[_nx_29vyed_j] = _nx_29vyed_j * _nx_29vyed_a end
+end
+local _nx_29vyed_f = function() return _nx_29vyed_a + string.len(_nx_29vyed_b) end
+if false then _nx_29vyed_f(); end -- Junk call
+local _nx_4blofq_a = 1441 * 12 + (1441 / 3)
+local _nx_4blofq_b = "wj13hp4xr2" .. string.reverse("wj13hp4xr2")
+if (_nx_4blofq_a > 9999 and not false) or (_nx_4blofq_b ~= "abcdef") then
+    for _nx_4blofq_i = 1, 3 do local _nx_4blofq_c = _nx_4blofq_a % 7; end
+else
+    local _nx_4blofq_d = {} for _nx_4blofq_j = 1, 3 do _nx_4blofq_d[_nx_4blofq_j] = _nx_4blofq_j * _nx_4blofq_a end
+end
+local _nx_4blofq_f = function() return _nx_4blofq_a + string.len(_nx_4blofq_b) end
+if true then _nx_4blofq_f(); end -- Junk call
+local _nx_kv73f3_a = 6515 * 12 + (6515 / 3)
+local _nx_kv73f3_b = "vpf29b4t6q" .. string.reverse("vpf29b4t6q")
+if (_nx_kv73f3_a > 9999 and not false) or (_nx_kv73f3_b ~= "abcdef") then
+    for _nx_kv73f3_i = 1, 3 do local _nx_kv73f3_c = _nx_kv73f3_a % 8; end
+else
+    local _nx_kv73f3_d = {} for _nx_kv73f3_j = 1, 4 do _nx_kv73f3_d[_nx_kv73f3_j] = _nx_kv73f3_j * _nx_kv73f3_a end
+end
+local _nx_kv73f3_f = function() return _nx_kv73f3_a + string.len(_nx_kv73f3_b) end
+if false then _nx_kv73f3_f(); end -- Junk call
+local _nx_bwk30q_a = 2415 * 12 + (2415 / 3)
+local _nx_bwk30q_b = "gnso0tdqbi" .. string.reverse("gnso0tdqbi")
+if (_nx_bwk30q_a > 9999 and not true) or (_nx_bwk30q_b ~= "abcdef") then
+    for _nx_bwk30q_i = 1, 2 do local _nx_bwk30q_c = _nx_bwk30q_a % 9; end
+else
+    local _nx_bwk30q_d = {} for _nx_bwk30q_j = 1, 5 do _nx_bwk30q_d[_nx_bwk30q_j] = _nx_bwk30q_j * _nx_bwk30q_a end
+end
+local _nx_bwk30q_f = function() return _nx_bwk30q_a + string.len(_nx_bwk30q_b) end
+if false then _nx_bwk30q_f(); end -- Junk call
+local _nx_0iuyo4_a = 7796 * 12 + (7796 / 3)
+local _nx_0iuyo4_b = "nlyc0m7jo2" .. string.reverse("nlyc0m7jo2")
+if (_nx_0iuyo4_a > 9999 and not false) or (_nx_0iuyo4_b ~= "abcdef") then
+    for _nx_0iuyo4_i = 1, 4 do local _nx_0iuyo4_c = _nx_0iuyo4_a % 8; end
+else
+    local _nx_0iuyo4_d = {} for _nx_0iuyo4_j = 1, 4 do _nx_0iuyo4_d[_nx_0iuyo4_j] = _nx_0iuyo4_j * _nx_0iuyo4_a end
+end
+local _nx_0iuyo4_f = function() return _nx_0iuyo4_a + string.len(_nx_0iuyo4_b) end
+if false then _nx_0iuyo4_f(); end -- Junk call
+local _nx_biz4m2_a = 8015 * 12 + (8015 / 3)
+local _nx_biz4m2_b = "4ktae76xv1" .. string.reverse("4ktae76xv1")
+if (_nx_biz4m2_a > 9999 and not true) or (_nx_biz4m2_b ~= "abcdef") then
+    for _nx_biz4m2_i = 1, 2 do local _nx_biz4m2_c = _nx_biz4m2_a % 5; end
+else
+    local _nx_biz4m2_d = {} for _nx_biz4m2_j = 1, 1 do _nx_biz4m2_d[_nx_biz4m2_j] = _nx_biz4m2_j * _nx_biz4m2_a end
+end
+local _nx_biz4m2_f = function() return _nx_biz4m2_a + string.len(_nx_biz4m2_b) end
+if false then _nx_biz4m2_f(); end -- Junk call
+local _nx_agwhje_a = 4821 * 12 + (4821 / 3)
+local _nx_agwhje_b = "tfoghlkzyc" .. string.reverse("tfoghlkzyc")
+if (_nx_agwhje_a > 9999 and not true) or (_nx_agwhje_b ~= "abcdef") then
+    for _nx_agwhje_i = 1, 4 do local _nx_agwhje_c = _nx_agwhje_a % 8; end
+else
+    local _nx_agwhje_d = {} for _nx_agwhje_j = 1, 4 do _nx_agwhje_d[_nx_agwhje_j] = _nx_agwhje_j * _nx_agwhje_a end
+end
+local _nx_agwhje_f = function() return _nx_agwhje_a + string.len(_nx_agwhje_b) end
+if true then _nx_agwhje_f(); end -- Junk call
+local _nx_xe3ult_a = 386 * 12 + (386 / 3)
+local _nx_xe3ult_b = "0ajgrwuxuz" .. string.reverse("0ajgrwuxuz")
+if (_nx_xe3ult_a > 9999 and not false) or (_nx_xe3ult_b ~= "abcdef") then
+    for _nx_xe3ult_i = 1, 4 do local _nx_xe3ult_c = _nx_xe3ult_a % 6; end
+else
+    local _nx_xe3ult_d = {} for _nx_xe3ult_j = 1, 4 do _nx_xe3ult_d[_nx_xe3ult_j] = _nx_xe3ult_j * _nx_xe3ult_a end
+end
+local _nx_xe3ult_f = function() return _nx_xe3ult_a + string.len(_nx_xe3ult_b) end
+if true then _nx_xe3ult_f(); end -- Junk call
+local _nx_mi6oyx_a = 893 * 12 + (893 / 3)
+local _nx_mi6oyx_b = "fdnmka0t9n" .. string.reverse("fdnmka0t9n")
+if (_nx_mi6oyx_a > 9999 and not false) or (_nx_mi6oyx_b ~= "abcdef") then
+    for _nx_mi6oyx_i = 1, 5 do local _nx_mi6oyx_c = _nx_mi6oyx_a % 7; end
+else
+    local _nx_mi6oyx_d = {} for _nx_mi6oyx_j = 1, 2 do _nx_mi6oyx_d[_nx_mi6oyx_j] = _nx_mi6oyx_j * _nx_mi6oyx_a end
+end
+local _nx_mi6oyx_f = function() return _nx_mi6oyx_a + string.len(_nx_mi6oyx_b) end
+if false then _nx_mi6oyx_f(); end -- Junk call
+local _nx_byueod_a = 37 * 12 + (37 / 3)
+local _nx_byueod_b = "3f1fyklz20" .. string.reverse("3f1fyklz20")
+if (_nx_byueod_a > 9999 and not true) or (_nx_byueod_b ~= "abcdef") then
+    for _nx_byueod_i = 1, 2 do local _nx_byueod_c = _nx_byueod_a % 7; end
+else
+    local _nx_byueod_d = {} for _nx_byueod_j = 1, 5 do _nx_byueod_d[_nx_byueod_j] = _nx_byueod_j * _nx_byueod_a end
+end
+local _nx_byueod_f = function() return _nx_byueod_a + string.len(_nx_byueod_b) end
+if false then _nx_byueod_f(); end -- Junk call
+local _nx_6px46u_a = 465 * 12 + (465 / 3)
+local _nx_6px46u_b = "scv6v1zcop" .. string.reverse("scv6v1zcop")
+if (_nx_6px46u_a > 9999 and not true) or (_nx_6px46u_b ~= "abcdef") then
+    for _nx_6px46u_i = 1, 5 do local _nx_6px46u_c = _nx_6px46u_a % 3; end
+else
+    local _nx_6px46u_d = {} for _nx_6px46u_j = 1, 1 do _nx_6px46u_d[_nx_6px46u_j] = _nx_6px46u_j * _nx_6px46u_a end
+end
+local _nx_6px46u_f = function() return _nx_6px46u_a + string.len(_nx_6px46u_b) end
+if true then _nx_6px46u_f(); end -- Junk call
+local _nx_s9ka8f_a = 3485 * 12 + (3485 / 3)
+local _nx_s9ka8f_b = "6j3rs9tydz" .. string.reverse("6j3rs9tydz")
+if (_nx_s9ka8f_a > 9999 and not false) or (_nx_s9ka8f_b ~= "abcdef") then
+    for _nx_s9ka8f_i = 1, 4 do local _nx_s9ka8f_c = _nx_s9ka8f_a % 4; end
+else
+    local _nx_s9ka8f_d = {} for _nx_s9ka8f_j = 1, 2 do _nx_s9ka8f_d[_nx_s9ka8f_j] = _nx_s9ka8f_j * _nx_s9ka8f_a end
+end
+local _nx_s9ka8f_f = function() return _nx_s9ka8f_a + string.len(_nx_s9ka8f_b) end
+if false then _nx_s9ka8f_f(); end -- Junk call
+local _nx_jrtazt_a = 257 * 12 + (257 / 3)
+local _nx_jrtazt_b = "q69vwcythg" .. string.reverse("q69vwcythg")
+if (_nx_jrtazt_a > 9999 and not false) or (_nx_jrtazt_b ~= "abcdef") then
+    for _nx_jrtazt_i = 1, 1 do local _nx_jrtazt_c = _nx_jrtazt_a % 4; end
+else
+    local _nx_jrtazt_d = {} for _nx_jrtazt_j = 1, 2 do _nx_jrtazt_d[_nx_jrtazt_j] = _nx_jrtazt_j * _nx_jrtazt_a end
+end
+local _nx_jrtazt_f = function() return _nx_jrtazt_a + string.len(_nx_jrtazt_b) end
+if false then _nx_jrtazt_f(); end -- Junk call
+local _nx_8yszju_a = 6832 * 12 + (6832 / 3)
+local _nx_8yszju_b = "b0axnwzkht" .. string.reverse("b0axnwzkht")
+if (_nx_8yszju_a > 9999 and not true) or (_nx_8yszju_b ~= "abcdef") then
+    for _nx_8yszju_i = 1, 3 do local _nx_8yszju_c = _nx_8yszju_a % 7; end
+else
+    local _nx_8yszju_d = {} for _nx_8yszju_j = 1, 2 do _nx_8yszju_d[_nx_8yszju_j] = _nx_8yszju_j * _nx_8yszju_a end
+end
+local _nx_8yszju_f = function() return _nx_8yszju_a + string.len(_nx_8yszju_b) end
+if false then _nx_8yszju_f(); end -- Junk call
+local _nx_5wwn92_a = 3642 * 12 + (3642 / 3)
+local _nx_5wwn92_b = "jukp6jlx32" .. string.reverse("jukp6jlx32")
+if (_nx_5wwn92_a > 9999 and not false) or (_nx_5wwn92_b ~= "abcdef") then
+    for _nx_5wwn92_i = 1, 3 do local _nx_5wwn92_c = _nx_5wwn92_a % 3; end
+else
+    local _nx_5wwn92_d = {} for _nx_5wwn92_j = 1, 4 do _nx_5wwn92_d[_nx_5wwn92_j] = _nx_5wwn92_j * _nx_5wwn92_a end
+end
+local _nx_5wwn92_f = function() return _nx_5wwn92_a + string.len(_nx_5wwn92_b) end
+if true then _nx_5wwn92_f(); end -- Junk call
+local _nx_wec6gp_a = 7911 * 12 + (7911 / 3)
+local _nx_wec6gp_b = "fq1lbjgrvd" .. string.reverse("fq1lbjgrvd")
+if (_nx_wec6gp_a > 9999 and not false) or (_nx_wec6gp_b ~= "abcdef") then
+    for _nx_wec6gp_i = 1, 5 do local _nx_wec6gp_c = _nx_wec6gp_a % 6; end
+else
+    local _nx_wec6gp_d = {} for _nx_wec6gp_j = 1, 2 do _nx_wec6gp_d[_nx_wec6gp_j] = _nx_wec6gp_j * _nx_wec6gp_a end
+end
+local _nx_wec6gp_f = function() return _nx_wec6gp_a + string.len(_nx_wec6gp_b) end
+if false then _nx_wec6gp_f(); end -- Junk call
+local _nx_bq4iut_a = 6854 * 12 + (6854 / 3)
+local _nx_bq4iut_b = "jr0tyiposq" .. string.reverse("jr0tyiposq")
+if (_nx_bq4iut_a > 9999 and not true) or (_nx_bq4iut_b ~= "abcdef") then
+    for _nx_bq4iut_i = 1, 1 do local _nx_bq4iut_c = _nx_bq4iut_a % 3; end
+else
+    local _nx_bq4iut_d = {} for _nx_bq4iut_j = 1, 1 do _nx_bq4iut_d[_nx_bq4iut_j] = _nx_bq4iut_j * _nx_bq4iut_a end
+end
+local _nx_bq4iut_f = function() return _nx_bq4iut_a + string.len(_nx_bq4iut_b) end
+if false then _nx_bq4iut_f(); end -- Junk call
+local _nx_bxioro_a = 6949 * 12 + (6949 / 3)
+local _nx_bxioro_b = "ngs29aumxi" .. string.reverse("ngs29aumxi")
+if (_nx_bxioro_a > 9999 and not false) or (_nx_bxioro_b ~= "abcdef") then
+    for _nx_bxioro_i = 1, 3 do local _nx_bxioro_c = _nx_bxioro_a % 9; end
+else
+    local _nx_bxioro_d = {} for _nx_bxioro_j = 1, 5 do _nx_bxioro_d[_nx_bxioro_j] = _nx_bxioro_j * _nx_bxioro_a end
+end
+local _nx_bxioro_f = function() return _nx_bxioro_a + string.len(_nx_bxioro_b) end
+if false then _nx_bxioro_f(); end -- Junk call
+local _nx_evny6v_a = 269 * 12 + (269 / 3)
+local _nx_evny6v_b = "r1x3rykdkw" .. string.reverse("r1x3rykdkw")
+if (_nx_evny6v_a > 9999 and not true) or (_nx_evny6v_b ~= "abcdef") then
+    for _nx_evny6v_i = 1, 2 do local _nx_evny6v_c = _nx_evny6v_a % 6; end
+else
+    local _nx_evny6v_d = {} for _nx_evny6v_j = 1, 4 do _nx_evny6v_d[_nx_evny6v_j] = _nx_evny6v_j * _nx_evny6v_a end
+end
+local _nx_evny6v_f = function() return _nx_evny6v_a + string.len(_nx_evny6v_b) end
+if true then _nx_evny6v_f(); end -- Junk call
+local _nx_kshvmt_a = 639 * 12 + (639 / 3)
+local _nx_kshvmt_b = "2hk88yjks1" .. string.reverse("2hk88yjks1")
+if (_nx_kshvmt_a > 9999 and not true) or (_nx_kshvmt_b ~= "abcdef") then
+    for _nx_kshvmt_i = 1, 5 do local _nx_kshvmt_c = _nx_kshvmt_a % 5; end
+else
+    local _nx_kshvmt_d = {} for _nx_kshvmt_j = 1, 5 do _nx_kshvmt_d[_nx_kshvmt_j] = _nx_kshvmt_j * _nx_kshvmt_a end
+end
+local _nx_kshvmt_f = function() return _nx_kshvmt_a + string.len(_nx_kshvmt_b) end
+if false then _nx_kshvmt_f(); end -- Junk call
+local _nx_fwhcly_a = 2281 * 12 + (2281 / 3)
+local _nx_fwhcly_b = "5wljonvb4e" .. string.reverse("5wljonvb4e")
+if (_nx_fwhcly_a > 9999 and not false) or (_nx_fwhcly_b ~= "abcdef") then
+    for _nx_fwhcly_i = 1, 1 do local _nx_fwhcly_c = _nx_fwhcly_a % 8; end
+else
+    local _nx_fwhcly_d = {} for _nx_fwhcly_j = 1, 2 do _nx_fwhcly_d[_nx_fwhcly_j] = _nx_fwhcly_j * _nx_fwhcly_a end
+end
+local _nx_fwhcly_f = function() return _nx_fwhcly_a + string.len(_nx_fwhcly_b) end
+if false then _nx_fwhcly_f(); end -- Junk call
+local _nx_cjolrv_a = 4609 * 12 + (4609 / 3)
+local _nx_cjolrv_b = "ynnpjzoogm" .. string.reverse("ynnpjzoogm")
+if (_nx_cjolrv_a > 9999 and not false) or (_nx_cjolrv_b ~= "abcdef") then
+    for _nx_cjolrv_i = 1, 2 do local _nx_cjolrv_c = _nx_cjolrv_a % 8; end
+else
+    local _nx_cjolrv_d = {} for _nx_cjolrv_j = 1, 4 do _nx_cjolrv_d[_nx_cjolrv_j] = _nx_cjolrv_j * _nx_cjolrv_a end
+end
+local _nx_cjolrv_f = function() return _nx_cjolrv_a + string.len(_nx_cjolrv_b) end
+if true then _nx_cjolrv_f(); end -- Junk call
+local _nx_q31nki_a = 274 * 12 + (274 / 3)
+local _nx_q31nki_b = "ps127kaj0k" .. string.reverse("ps127kaj0k")
+if (_nx_q31nki_a > 9999 and not false) or (_nx_q31nki_b ~= "abcdef") then
+    for _nx_q31nki_i = 1, 1 do local _nx_q31nki_c = _nx_q31nki_a % 9; end
+else
+    local _nx_q31nki_d = {} for _nx_q31nki_j = 1, 5 do _nx_q31nki_d[_nx_q31nki_j] = _nx_q31nki_j * _nx_q31nki_a end
+end
+local _nx_q31nki_f = function() return _nx_q31nki_a + string.len(_nx_q31nki_b) end
+if true then _nx_q31nki_f(); end -- Junk call
+local _nx_er36ly_a = 9254 * 12 + (9254 / 3)
+local _nx_er36ly_b = "t22xdc4xp1" .. string.reverse("t22xdc4xp1")
+if (_nx_er36ly_a > 9999 and not false) or (_nx_er36ly_b ~= "abcdef") then
+    for _nx_er36ly_i = 1, 1 do local _nx_er36ly_c = _nx_er36ly_a % 2; end
+else
+    local _nx_er36ly_d = {} for _nx_er36ly_j = 1, 4 do _nx_er36ly_d[_nx_er36ly_j] = _nx_er36ly_j * _nx_er36ly_a end
+end
+local _nx_er36ly_f = function() return _nx_er36ly_a + string.len(_nx_er36ly_b) end
+if true then _nx_er36ly_f(); end -- Junk call
+local _nx_7z6odd_a = 9783 * 12 + (9783 / 3)
+local _nx_7z6odd_b = "djxj1rsvi5" .. string.reverse("djxj1rsvi5")
+if (_nx_7z6odd_a > 9999 and not true) or (_nx_7z6odd_b ~= "abcdef") then
+    for _nx_7z6odd_i = 1, 1 do local _nx_7z6odd_c = _nx_7z6odd_a % 11; end
+else
+    local _nx_7z6odd_d = {} for _nx_7z6odd_j = 1, 3 do _nx_7z6odd_d[_nx_7z6odd_j] = _nx_7z6odd_j * _nx_7z6odd_a end
+end
+local _nx_7z6odd_f = function() return _nx_7z6odd_a + string.len(_nx_7z6odd_b) end
+if false then _nx_7z6odd_f(); end -- Junk call
+local _nx_bhqa62_a = 9415 * 12 + (9415 / 3)
+local _nx_bhqa62_b = "ihb7j67nkm" .. string.reverse("ihb7j67nkm")
+if (_nx_bhqa62_a > 9999 and not true) or (_nx_bhqa62_b ~= "abcdef") then
+    for _nx_bhqa62_i = 1, 1 do local _nx_bhqa62_c = _nx_bhqa62_a % 9; end
+else
+    local _nx_bhqa62_d = {} for _nx_bhqa62_j = 1, 3 do _nx_bhqa62_d[_nx_bhqa62_j] = _nx_bhqa62_j * _nx_bhqa62_a end
+end
+local _nx_bhqa62_f = function() return _nx_bhqa62_a + string.len(_nx_bhqa62_b) end
+if true then _nx_bhqa62_f(); end -- Junk call
+local _nx_006e3k_a = 4684 * 12 + (4684 / 3)
+local _nx_006e3k_b = "v8aabjpvwo" .. string.reverse("v8aabjpvwo")
+if (_nx_006e3k_a > 9999 and not true) or (_nx_006e3k_b ~= "abcdef") then
+    for _nx_006e3k_i = 1, 3 do local _nx_006e3k_c = _nx_006e3k_a % 3; end
+else
+    local _nx_006e3k_d = {} for _nx_006e3k_j = 1, 5 do _nx_006e3k_d[_nx_006e3k_j] = _nx_006e3k_j * _nx_006e3k_a end
+end
+local _nx_006e3k_f = function() return _nx_006e3k_a + string.len(_nx_006e3k_b) end
+if true then _nx_006e3k_f(); end -- Junk call
+local _nx_qkpn3u_a = 2281 * 12 + (2281 / 3)
+local _nx_qkpn3u_b = "dfhorchvca" .. string.reverse("dfhorchvca")
+if (_nx_qkpn3u_a > 9999 and not false) or (_nx_qkpn3u_b ~= "abcdef") then
+    for _nx_qkpn3u_i = 1, 2 do local _nx_qkpn3u_c = _nx_qkpn3u_a % 6; end
+else
+    local _nx_qkpn3u_d = {} for _nx_qkpn3u_j = 1, 3 do _nx_qkpn3u_d[_nx_qkpn3u_j] = _nx_qkpn3u_j * _nx_qkpn3u_a end
+end
+local _nx_qkpn3u_f = function() return _nx_qkpn3u_a + string.len(_nx_qkpn3u_b) end
+if false then _nx_qkpn3u_f(); end -- Junk call
+local _nx_xvicu2_a = 6312 * 12 + (6312 / 3)
+local _nx_xvicu2_b = "4ydowov0pq" .. string.reverse("4ydowov0pq")
+if (_nx_xvicu2_a > 9999 and not false) or (_nx_xvicu2_b ~= "abcdef") then
+    for _nx_xvicu2_i = 1, 2 do local _nx_xvicu2_c = _nx_xvicu2_a % 5; end
+else
+    local _nx_xvicu2_d = {} for _nx_xvicu2_j = 1, 5 do _nx_xvicu2_d[_nx_xvicu2_j] = _nx_xvicu2_j * _nx_xvicu2_a end
+end
+local _nx_xvicu2_f = function() return _nx_xvicu2_a + string.len(_nx_xvicu2_b) end
+if true then _nx_xvicu2_f(); end -- Junk call
+local _nx_m5yla7_a = 3819 * 12 + (3819 / 3)
+local _nx_m5yla7_b = "o4dnwjq0h1" .. string.reverse("o4dnwjq0h1")
+if (_nx_m5yla7_a > 9999 and not true) or (_nx_m5yla7_b ~= "abcdef") then
+    for _nx_m5yla7_i = 1, 2 do local _nx_m5yla7_c = _nx_m5yla7_a % 9; end
+else
+    local _nx_m5yla7_d = {} for _nx_m5yla7_j = 1, 4 do _nx_m5yla7_d[_nx_m5yla7_j] = _nx_m5yla7_j * _nx_m5yla7_a end
+end
+local _nx_m5yla7_f = function() return _nx_m5yla7_a + string.len(_nx_m5yla7_b) end
+if true then _nx_m5yla7_f(); end -- Junk call
+local _nx_4hqxsl_a = 9334 * 12 + (9334 / 3)
+local _nx_4hqxsl_b = "eaqjtanvch" .. string.reverse("eaqjtanvch")
+if (_nx_4hqxsl_a > 9999 and not true) or (_nx_4hqxsl_b ~= "abcdef") then
+    for _nx_4hqxsl_i = 1, 3 do local _nx_4hqxsl_c = _nx_4hqxsl_a % 5; end
+else
+    local _nx_4hqxsl_d = {} for _nx_4hqxsl_j = 1, 2 do _nx_4hqxsl_d[_nx_4hqxsl_j] = _nx_4hqxsl_j * _nx_4hqxsl_a end
+end
+local _nx_4hqxsl_f = function() return _nx_4hqxsl_a + string.len(_nx_4hqxsl_b) end
+if false then _nx_4hqxsl_f(); end -- Junk call
+local _nx_5ypc1y_a = 9347 * 12 + (9347 / 3)
+local _nx_5ypc1y_b = "o9yi233dn1" .. string.reverse("o9yi233dn1")
+if (_nx_5ypc1y_a > 9999 and not false) or (_nx_5ypc1y_b ~= "abcdef") then
+    for _nx_5ypc1y_i = 1, 1 do local _nx_5ypc1y_c = _nx_5ypc1y_a % 9; end
+else
+    local _nx_5ypc1y_d = {} for _nx_5ypc1y_j = 1, 2 do _nx_5ypc1y_d[_nx_5ypc1y_j] = _nx_5ypc1y_j * _nx_5ypc1y_a end
+end
+local _nx_5ypc1y_f = function() return _nx_5ypc1y_a + string.len(_nx_5ypc1y_b) end
+if false then _nx_5ypc1y_f(); end -- Junk call
+local _nx_eyc9dp_a = 2720 * 12 + (2720 / 3)
+local _nx_eyc9dp_b = "8iub584yhq" .. string.reverse("8iub584yhq")
+if (_nx_eyc9dp_a > 9999 and not true) or (_nx_eyc9dp_b ~= "abcdef") then
+    for _nx_eyc9dp_i = 1, 3 do local _nx_eyc9dp_c = _nx_eyc9dp_a % 9; end
+else
+    local _nx_eyc9dp_d = {} for _nx_eyc9dp_j = 1, 1 do _nx_eyc9dp_d[_nx_eyc9dp_j] = _nx_eyc9dp_j * _nx_eyc9dp_a end
+end
+local _nx_eyc9dp_f = function() return _nx_eyc9dp_a + string.len(_nx_eyc9dp_b) end
+if false then _nx_eyc9dp_f(); end -- Junk call
+local _nx_2owe56_a = 9550 * 12 + (9550 / 3)
+local _nx_2owe56_b = "l4ai2el4b8" .. string.reverse("l4ai2el4b8")
+if (_nx_2owe56_a > 9999 and not true) or (_nx_2owe56_b ~= "abcdef") then
+    for _nx_2owe56_i = 1, 1 do local _nx_2owe56_c = _nx_2owe56_a % 5; end
+else
+    local _nx_2owe56_d = {} for _nx_2owe56_j = 1, 3 do _nx_2owe56_d[_nx_2owe56_j] = _nx_2owe56_j * _nx_2owe56_a end
+end
+local _nx_2owe56_f = function() return _nx_2owe56_a + string.len(_nx_2owe56_b) end
+if false then _nx_2owe56_f(); end -- Junk call
+local _nx_qgtcia_a = 9108 * 12 + (9108 / 3)
+local _nx_qgtcia_b = "e71icjbq36" .. string.reverse("e71icjbq36")
+if (_nx_qgtcia_a > 9999 and not true) or (_nx_qgtcia_b ~= "abcdef") then
+    for _nx_qgtcia_i = 1, 3 do local _nx_qgtcia_c = _nx_qgtcia_a % 4; end
+else
+    local _nx_qgtcia_d = {} for _nx_qgtcia_j = 1, 2 do _nx_qgtcia_d[_nx_qgtcia_j] = _nx_qgtcia_j * _nx_qgtcia_a end
+end
+local _nx_qgtcia_f = function() return _nx_qgtcia_a + string.len(_nx_qgtcia_b) end
+if false then _nx_qgtcia_f(); end -- Junk call
+local _nx_n5efqa_a = 7077 * 12 + (7077 / 3)
+local _nx_n5efqa_b = "9vuksjeugi" .. string.reverse("9vuksjeugi")
+if (_nx_n5efqa_a > 9999 and not false) or (_nx_n5efqa_b ~= "abcdef") then
+    for _nx_n5efqa_i = 1, 4 do local _nx_n5efqa_c = _nx_n5efqa_a % 11; end
+else
+    local _nx_n5efqa_d = {} for _nx_n5efqa_j = 1, 1 do _nx_n5efqa_d[_nx_n5efqa_j] = _nx_n5efqa_j * _nx_n5efqa_a end
+end
+local _nx_n5efqa_f = function() return _nx_n5efqa_a + string.len(_nx_n5efqa_b) end
+if false then _nx_n5efqa_f(); end -- Junk call
+local _nx_orp4cf_a = 5595 * 12 + (5595 / 3)
+local _nx_orp4cf_b = "pvbahumorf" .. string.reverse("pvbahumorf")
+if (_nx_orp4cf_a > 9999 and not false) or (_nx_orp4cf_b ~= "abcdef") then
+    for _nx_orp4cf_i = 1, 4 do local _nx_orp4cf_c = _nx_orp4cf_a % 8; end
+else
+    local _nx_orp4cf_d = {} for _nx_orp4cf_j = 1, 4 do _nx_orp4cf_d[_nx_orp4cf_j] = _nx_orp4cf_j * _nx_orp4cf_a end
+end
+local _nx_orp4cf_f = function() return _nx_orp4cf_a + string.len(_nx_orp4cf_b) end
+if true then _nx_orp4cf_f(); end -- Junk call
+local _nx_tec0ck_a = 9087 * 12 + (9087 / 3)
+local _nx_tec0ck_b = "adcy5wjt2o" .. string.reverse("adcy5wjt2o")
+if (_nx_tec0ck_a > 9999 and not false) or (_nx_tec0ck_b ~= "abcdef") then
+    for _nx_tec0ck_i = 1, 1 do local _nx_tec0ck_c = _nx_tec0ck_a % 3; end
+else
+    local _nx_tec0ck_d = {} for _nx_tec0ck_j = 1, 5 do _nx_tec0ck_d[_nx_tec0ck_j] = _nx_tec0ck_j * _nx_tec0ck_a end
+end
+local _nx_tec0ck_f = function() return _nx_tec0ck_a + string.len(_nx_tec0ck_b) end
+if false then _nx_tec0ck_f(); end -- Junk call
+local _nx_vv4yn3_a = 8745 * 12 + (8745 / 3)
+local _nx_vv4yn3_b = "sstohrpv7" .. string.reverse("sstohrpv7")
+if (_nx_vv4yn3_a > 9999 and not false) or (_nx_vv4yn3_b ~= "abcdef") then
+    for _nx_vv4yn3_i = 1, 4 do local _nx_vv4yn3_c = _nx_vv4yn3_a % 6; end
+else
+    local _nx_vv4yn3_d = {} for _nx_vv4yn3_j = 1, 1 do _nx_vv4yn3_d[_nx_vv4yn3_j] = _nx_vv4yn3_j * _nx_vv4yn3_a end
+end
+local _nx_vv4yn3_f = function() return _nx_vv4yn3_a + string.len(_nx_vv4yn3_b) end
+if false then _nx_vv4yn3_f(); end -- Junk call
+local _nx_tps9q3_a = 3701 * 12 + (3701 / 3)
+local _nx_tps9q3_b = "j2312d1u0r" .. string.reverse("j2312d1u0r")
+if (_nx_tps9q3_a > 9999 and not true) or (_nx_tps9q3_b ~= "abcdef") then
+    for _nx_tps9q3_i = 1, 4 do local _nx_tps9q3_c = _nx_tps9q3_a % 4; end
+else
+    local _nx_tps9q3_d = {} for _nx_tps9q3_j = 1, 4 do _nx_tps9q3_d[_nx_tps9q3_j] = _nx_tps9q3_j * _nx_tps9q3_a end
+end
+local _nx_tps9q3_f = function() return _nx_tps9q3_a + string.len(_nx_tps9q3_b) end
+if false then _nx_tps9q3_f(); end -- Junk call
+local _nx_uyk5hj_a = 9589 * 12 + (9589 / 3)
+local _nx_uyk5hj_b = "0yjectuckz" .. string.reverse("0yjectuckz")
+if (_nx_uyk5hj_a > 9999 and not false) or (_nx_uyk5hj_b ~= "abcdef") then
+    for _nx_uyk5hj_i = 1, 3 do local _nx_uyk5hj_c = _nx_uyk5hj_a % 10; end
+else
+    local _nx_uyk5hj_d = {} for _nx_uyk5hj_j = 1, 5 do _nx_uyk5hj_d[_nx_uyk5hj_j] = _nx_uyk5hj_j * _nx_uyk5hj_a end
+end
+local _nx_uyk5hj_f = function() return _nx_uyk5hj_a + string.len(_nx_uyk5hj_b) end
+if true then _nx_uyk5hj_f(); end -- Junk call
+local _nx_5ulbzf_a = 9803 * 12 + (9803 / 3)
+local _nx_5ulbzf_b = "ve36zrxxl3" .. string.reverse("ve36zrxxl3")
+if (_nx_5ulbzf_a > 9999 and not false) or (_nx_5ulbzf_b ~= "abcdef") then
+    for _nx_5ulbzf_i = 1, 4 do local _nx_5ulbzf_c = _nx_5ulbzf_a % 2; end
+else
+    local _nx_5ulbzf_d = {} for _nx_5ulbzf_j = 1, 2 do _nx_5ulbzf_d[_nx_5ulbzf_j] = _nx_5ulbzf_j * _nx_5ulbzf_a end
+end
+local _nx_5ulbzf_f = function() return _nx_5ulbzf_a + string.len(_nx_5ulbzf_b) end
+if false then _nx_5ulbzf_f(); end -- Junk call
+local _nx_ione1q_a = 5517 * 12 + (5517 / 3)
+local _nx_ione1q_b = "x2ywo49gql" .. string.reverse("x2ywo49gql")
+if (_nx_ione1q_a > 9999 and not false) or (_nx_ione1q_b ~= "abcdef") then
+    for _nx_ione1q_i = 1, 1 do local _nx_ione1q_c = _nx_ione1q_a % 7; end
+else
+    local _nx_ione1q_d = {} for _nx_ione1q_j = 1, 2 do _nx_ione1q_d[_nx_ione1q_j] = _nx_ione1q_j * _nx_ione1q_a end
+end
+local _nx_ione1q_f = function() return _nx_ione1q_a + string.len(_nx_ione1q_b) end
+if true then _nx_ione1q_f(); end -- Junk call
+local _nx_ylgktv_a = 1423 * 12 + (1423 / 3)
+local _nx_ylgktv_b = "gchqymekca" .. string.reverse("gchqymekca")
+if (_nx_ylgktv_a > 9999 and not false) or (_nx_ylgktv_b ~= "abcdef") then
+    for _nx_ylgktv_i = 1, 4 do local _nx_ylgktv_c = _nx_ylgktv_a % 10; end
+else
+    local _nx_ylgktv_d = {} for _nx_ylgktv_j = 1, 1 do _nx_ylgktv_d[_nx_ylgktv_j] = _nx_ylgktv_j * _nx_ylgktv_a end
+end
+local _nx_ylgktv_f = function() return _nx_ylgktv_a + string.len(_nx_ylgktv_b) end
+if true then _nx_ylgktv_f(); end -- Junk call
+local _nx_rddofe_a = 9455 * 12 + (9455 / 3)
+local _nx_rddofe_b = "mhqeqx4t63" .. string.reverse("mhqeqx4t63")
+if (_nx_rddofe_a > 9999 and not false) or (_nx_rddofe_b ~= "abcdef") then
+    for _nx_rddofe_i = 1, 3 do local _nx_rddofe_c = _nx_rddofe_a % 4; end
+else
+    local _nx_rddofe_d = {} for _nx_rddofe_j = 1, 1 do _nx_rddofe_d[_nx_rddofe_j] = _nx_rddofe_j * _nx_rddofe_a end
+end
+local _nx_rddofe_f = function() return _nx_rddofe_a + string.len(_nx_rddofe_b) end
+if false then _nx_rddofe_f(); end -- Junk call
+local _nx_6hkrvk_a = 8263 * 12 + (8263 / 3)
+local _nx_6hkrvk_b = "sg6unzg8vb" .. string.reverse("sg6unzg8vb")
+if (_nx_6hkrvk_a > 9999 and not true) or (_nx_6hkrvk_b ~= "abcdef") then
+    for _nx_6hkrvk_i = 1, 1 do local _nx_6hkrvk_c = _nx_6hkrvk_a % 11; end
+else
+    local _nx_6hkrvk_d = {} for _nx_6hkrvk_j = 1, 5 do _nx_6hkrvk_d[_nx_6hkrvk_j] = _nx_6hkrvk_j * _nx_6hkrvk_a end
+end
+local _nx_6hkrvk_f = function() return _nx_6hkrvk_a + string.len(_nx_6hkrvk_b) end
+if true then _nx_6hkrvk_f(); end -- Junk call
+local _nx_rd453c_a = 400 * 12 + (400 / 3)
+local _nx_rd453c_b = "pw0rvgab2s" .. string.reverse("pw0rvgab2s")
+if (_nx_rd453c_a > 9999 and not false) or (_nx_rd453c_b ~= "abcdef") then
+    for _nx_rd453c_i = 1, 2 do local _nx_rd453c_c = _nx_rd453c_a % 9; end
+else
+    local _nx_rd453c_d = {} for _nx_rd453c_j = 1, 2 do _nx_rd453c_d[_nx_rd453c_j] = _nx_rd453c_j * _nx_rd453c_a end
+end
+local _nx_rd453c_f = function() return _nx_rd453c_a + string.len(_nx_rd453c_b) end
+if true then _nx_rd453c_f(); end -- Junk call
+local _nx_mpkn9s_a = 5565 * 12 + (5565 / 3)
+local _nx_mpkn9s_b = "dsgkvao9dc" .. string.reverse("dsgkvao9dc")
+if (_nx_mpkn9s_a > 9999 and not false) or (_nx_mpkn9s_b ~= "abcdef") then
+    for _nx_mpkn9s_i = 1, 1 do local _nx_mpkn9s_c = _nx_mpkn9s_a % 6; end
+else
+    local _nx_mpkn9s_d = {} for _nx_mpkn9s_j = 1, 1 do _nx_mpkn9s_d[_nx_mpkn9s_j] = _nx_mpkn9s_j * _nx_mpkn9s_a end
+end
+local _nx_mpkn9s_f = function() return _nx_mpkn9s_a + string.len(_nx_mpkn9s_b) end
+if false then _nx_mpkn9s_f(); end -- Junk call
+local _nx_4fjxp3_a = 3455 * 12 + (3455 / 3)
+local _nx_4fjxp3_b = "yy5mu1auwq" .. string.reverse("yy5mu1auwq")
+if (_nx_4fjxp3_a > 9999 and not false) or (_nx_4fjxp3_b ~= "abcdef") then
+    for _nx_4fjxp3_i = 1, 1 do local _nx_4fjxp3_c = _nx_4fjxp3_a % 11; end
+else
+    local _nx_4fjxp3_d = {} for _nx_4fjxp3_j = 1, 3 do _nx_4fjxp3_d[_nx_4fjxp3_j] = _nx_4fjxp3_j * _nx_4fjxp3_a end
+end
+local _nx_4fjxp3_f = function() return _nx_4fjxp3_a + string.len(_nx_4fjxp3_b) end
+if false then _nx_4fjxp3_f(); end -- Junk call
+local _nx_pbqh4n_a = 8028 * 12 + (8028 / 3)
+local _nx_pbqh4n_b = "m7hythbett" .. string.reverse("m7hythbett")
+if (_nx_pbqh4n_a > 9999 and not true) or (_nx_pbqh4n_b ~= "abcdef") then
+    for _nx_pbqh4n_i = 1, 3 do local _nx_pbqh4n_c = _nx_pbqh4n_a % 4; end
+else
+    local _nx_pbqh4n_d = {} for _nx_pbqh4n_j = 1, 2 do _nx_pbqh4n_d[_nx_pbqh4n_j] = _nx_pbqh4n_j * _nx_pbqh4n_a end
+end
+local _nx_pbqh4n_f = function() return _nx_pbqh4n_a + string.len(_nx_pbqh4n_b) end
+if false then _nx_pbqh4n_f(); end -- Junk call
+local _nx_pg5n31_a = 1626 * 12 + (1626 / 3)
+local _nx_pg5n31_b = "nsy69fzh6r" .. string.reverse("nsy69fzh6r")
+if (_nx_pg5n31_a > 9999 and not true) or (_nx_pg5n31_b ~= "abcdef") then
+    for _nx_pg5n31_i = 1, 1 do local _nx_pg5n31_c = _nx_pg5n31_a % 6; end
+else
+    local _nx_pg5n31_d = {} for _nx_pg5n31_j = 1, 5 do _nx_pg5n31_d[_nx_pg5n31_j] = _nx_pg5n31_j * _nx_pg5n31_a end
+end
+local _nx_pg5n31_f = function() return _nx_pg5n31_a + string.len(_nx_pg5n31_b) end
+if false then _nx_pg5n31_f(); end -- Junk call
+local _nx_nhugwv_a = 710 * 12 + (710 / 3)
+local _nx_nhugwv_b = "5b2682azhl" .. string.reverse("5b2682azhl")
+if (_nx_nhugwv_a > 9999 and not false) or (_nx_nhugwv_b ~= "abcdef") then
+    for _nx_nhugwv_i = 1, 5 do local _nx_nhugwv_c = _nx_nhugwv_a % 3; end
+else
+    local _nx_nhugwv_d = {} for _nx_nhugwv_j = 1, 4 do _nx_nhugwv_d[_nx_nhugwv_j] = _nx_nhugwv_j * _nx_nhugwv_a end
+end
+local _nx_nhugwv_f = function() return _nx_nhugwv_a + string.len(_nx_nhugwv_b) end
+if true then _nx_nhugwv_f(); end -- Junk call
+local _nx_ej4en0_a = 2305 * 12 + (2305 / 3)
+local _nx_ej4en0_b = "sfl0ezt6f8" .. string.reverse("sfl0ezt6f8")
+if (_nx_ej4en0_a > 9999 and not false) or (_nx_ej4en0_b ~= "abcdef") then
+    for _nx_ej4en0_i = 1, 2 do local _nx_ej4en0_c = _nx_ej4en0_a % 10; end
+else
+    local _nx_ej4en0_d = {} for _nx_ej4en0_j = 1, 5 do _nx_ej4en0_d[_nx_ej4en0_j] = _nx_ej4en0_j * _nx_ej4en0_a end
+end
+local _nx_ej4en0_f = function() return _nx_ej4en0_a + string.len(_nx_ej4en0_b) end
+if false then _nx_ej4en0_f(); end -- Junk call
+local _nx_8px1pg_a = 6804 * 12 + (6804 / 3)
+local _nx_8px1pg_b = "h80ownc8bs" .. string.reverse("h80ownc8bs")
+if (_nx_8px1pg_a > 9999 and not false) or (_nx_8px1pg_b ~= "abcdef") then
+    for _nx_8px1pg_i = 1, 4 do local _nx_8px1pg_c = _nx_8px1pg_a % 6; end
+else
+    local _nx_8px1pg_d = {} for _nx_8px1pg_j = 1, 5 do _nx_8px1pg_d[_nx_8px1pg_j] = _nx_8px1pg_j * _nx_8px1pg_a end
+end
+local _nx_8px1pg_f = function() return _nx_8px1pg_a + string.len(_nx_8px1pg_b) end
+if true then _nx_8px1pg_f(); end -- Junk call
+local _nx_8qt744_a = 2590 * 12 + (2590 / 3)
+local _nx_8qt744_b = "ebojlnijmy" .. string.reverse("ebojlnijmy")
+if (_nx_8qt744_a > 9999 and not true) or (_nx_8qt744_b ~= "abcdef") then
+    for _nx_8qt744_i = 1, 5 do local _nx_8qt744_c = _nx_8qt744_a % 7; end
+else
+    local _nx_8qt744_d = {} for _nx_8qt744_j = 1, 2 do _nx_8qt744_d[_nx_8qt744_j] = _nx_8qt744_j * _nx_8qt744_a end
+end
+local _nx_8qt744_f = function() return _nx_8qt744_a + string.len(_nx_8qt744_b) end
+if false then _nx_8qt744_f(); end -- Junk call
+local _nx_74pt01_a = 644 * 12 + (644 / 3)
+local _nx_74pt01_b = "s51pd8jmhh" .. string.reverse("s51pd8jmhh")
+if (_nx_74pt01_a > 9999 and not true) or (_nx_74pt01_b ~= "abcdef") then
+    for _nx_74pt01_i = 1, 1 do local _nx_74pt01_c = _nx_74pt01_a % 10; end
+else
+    local _nx_74pt01_d = {} for _nx_74pt01_j = 1, 2 do _nx_74pt01_d[_nx_74pt01_j] = _nx_74pt01_j * _nx_74pt01_a end
+end
+local _nx_74pt01_f = function() return _nx_74pt01_a + string.len(_nx_74pt01_b) end
+if true then _nx_74pt01_f(); end -- Junk call
+local _nx_rfu8se_a = 8071 * 12 + (8071 / 3)
+local _nx_rfu8se_b = "ia4g3b7vcz" .. string.reverse("ia4g3b7vcz")
+if (_nx_rfu8se_a > 9999 and not false) or (_nx_rfu8se_b ~= "abcdef") then
+    for _nx_rfu8se_i = 1, 2 do local _nx_rfu8se_c = _nx_rfu8se_a % 10; end
+else
+    local _nx_rfu8se_d = {} for _nx_rfu8se_j = 1, 1 do _nx_rfu8se_d[_nx_rfu8se_j] = _nx_rfu8se_j * _nx_rfu8se_a end
+end
+local _nx_rfu8se_f = function() return _nx_rfu8se_a + string.len(_nx_rfu8se_b) end
+if false then _nx_rfu8se_f(); end -- Junk call
+local _nx_imbfe0_a = 614 * 12 + (614 / 3)
+local _nx_imbfe0_b = "0ex3380fo0" .. string.reverse("0ex3380fo0")
+if (_nx_imbfe0_a > 9999 and not true) or (_nx_imbfe0_b ~= "abcdef") then
+    for _nx_imbfe0_i = 1, 3 do local _nx_imbfe0_c = _nx_imbfe0_a % 11; end
+else
+    local _nx_imbfe0_d = {} for _nx_imbfe0_j = 1, 4 do _nx_imbfe0_d[_nx_imbfe0_j] = _nx_imbfe0_j * _nx_imbfe0_a end
+end
+local _nx_imbfe0_f = function() return _nx_imbfe0_a + string.len(_nx_imbfe0_b) end
+if false then _nx_imbfe0_f(); end -- Junk call
+local _nx_anyg84_a = 1509 * 12 + (1509 / 3)
+local _nx_anyg84_b = "gvoh334nng" .. string.reverse("gvoh334nng")
+if (_nx_anyg84_a > 9999 and not false) or (_nx_anyg84_b ~= "abcdef") then
+    for _nx_anyg84_i = 1, 3 do local _nx_anyg84_c = _nx_anyg84_a % 9; end
+else
+    local _nx_anyg84_d = {} for _nx_anyg84_j = 1, 3 do _nx_anyg84_d[_nx_anyg84_j] = _nx_anyg84_j * _nx_anyg84_a end
+end
+local _nx_anyg84_f = function() return _nx_anyg84_a + string.len(_nx_anyg84_b) end
+if false then _nx_anyg84_f(); end -- Junk call
+local _nx_31ef3a_a = 7289 * 12 + (7289 / 3)
+local _nx_31ef3a_b = "8tayhbp6xx" .. string.reverse("8tayhbp6xx")
+if (_nx_31ef3a_a > 9999 and not true) or (_nx_31ef3a_b ~= "abcdef") then
+    for _nx_31ef3a_i = 1, 5 do local _nx_31ef3a_c = _nx_31ef3a_a % 10; end
+else
+    local _nx_31ef3a_d = {} for _nx_31ef3a_j = 1, 1 do _nx_31ef3a_d[_nx_31ef3a_j] = _nx_31ef3a_j * _nx_31ef3a_a end
+end
+local _nx_31ef3a_f = function() return _nx_31ef3a_a + string.len(_nx_31ef3a_b) end
+if false then _nx_31ef3a_f(); end -- Junk call
+local _nx_t9r695_a = 9073 * 12 + (9073 / 3)
+local _nx_t9r695_b = "v070u0yqlf" .. string.reverse("v070u0yqlf")
+if (_nx_t9r695_a > 9999 and not false) or (_nx_t9r695_b ~= "abcdef") then
+    for _nx_t9r695_i = 1, 1 do local _nx_t9r695_c = _nx_t9r695_a % 9; end
+else
+    local _nx_t9r695_d = {} for _nx_t9r695_j = 1, 5 do _nx_t9r695_d[_nx_t9r695_j] = _nx_t9r695_j * _nx_t9r695_a end
+end
+local _nx_t9r695_f = function() return _nx_t9r695_a + string.len(_nx_t9r695_b) end
+if false then _nx_t9r695_f(); end -- Junk call
+local _nx_9vx684_a = 6072 * 12 + (6072 / 3)
+local _nx_9vx684_b = "7sel3ry7fn" .. string.reverse("7sel3ry7fn")
+if (_nx_9vx684_a > 9999 and not false) or (_nx_9vx684_b ~= "abcdef") then
+    for _nx_9vx684_i = 1, 3 do local _nx_9vx684_c = _nx_9vx684_a % 3; end
+else
+    local _nx_9vx684_d = {} for _nx_9vx684_j = 1, 3 do _nx_9vx684_d[_nx_9vx684_j] = _nx_9vx684_j * _nx_9vx684_a end
+end
+local _nx_9vx684_f = function() return _nx_9vx684_a + string.len(_nx_9vx684_b) end
+if false then _nx_9vx684_f(); end -- Junk call
+local _nx_768y06_a = 2367 * 12 + (2367 / 3)
+local _nx_768y06_b = "93crvinfmk" .. string.reverse("93crvinfmk")
+if (_nx_768y06_a > 9999 and not true) or (_nx_768y06_b ~= "abcdef") then
+    for _nx_768y06_i = 1, 5 do local _nx_768y06_c = _nx_768y06_a % 6; end
+else
+    local _nx_768y06_d = {} for _nx_768y06_j = 1, 5 do _nx_768y06_d[_nx_768y06_j] = _nx_768y06_j * _nx_768y06_a end
+end
+local _nx_768y06_f = function() return _nx_768y06_a + string.len(_nx_768y06_b) end
+if true then _nx_768y06_f(); end -- Junk call
+local _nx_y5jsi3_a = 8655 * 12 + (8655 / 3)
+local _nx_y5jsi3_b = "jxqpgoiuat" .. string.reverse("jxqpgoiuat")
+if (_nx_y5jsi3_a > 9999 and not false) or (_nx_y5jsi3_b ~= "abcdef") then
+    for _nx_y5jsi3_i = 1, 1 do local _nx_y5jsi3_c = _nx_y5jsi3_a % 9; end
+else
+    local _nx_y5jsi3_d = {} for _nx_y5jsi3_j = 1, 3 do _nx_y5jsi3_d[_nx_y5jsi3_j] = _nx_y5jsi3_j * _nx_y5jsi3_a end
+end
+local _nx_y5jsi3_f = function() return _nx_y5jsi3_a + string.len(_nx_y5jsi3_b) end
+if true then _nx_y5jsi3_f(); end -- Junk call
+local _nx_qa7iv0_a = 8060 * 12 + (8060 / 3)
+local _nx_qa7iv0_b = "uef3e1ix4x" .. string.reverse("uef3e1ix4x")
+if (_nx_qa7iv0_a > 9999 and not false) or (_nx_qa7iv0_b ~= "abcdef") then
+    for _nx_qa7iv0_i = 1, 3 do local _nx_qa7iv0_c = _nx_qa7iv0_a % 2; end
+else
+    local _nx_qa7iv0_d = {} for _nx_qa7iv0_j = 1, 4 do _nx_qa7iv0_d[_nx_qa7iv0_j] = _nx_qa7iv0_j * _nx_qa7iv0_a end
+end
+local _nx_qa7iv0_f = function() return _nx_qa7iv0_a + string.len(_nx_qa7iv0_b) end
+if true then _nx_qa7iv0_f(); end -- Junk call
+local _nx_qsdu16_a = 7372 * 12 + (7372 / 3)
+local _nx_qsdu16_b = "a8j2c270a9" .. string.reverse("a8j2c270a9")
+if (_nx_qsdu16_a > 9999 and not true) or (_nx_qsdu16_b ~= "abcdef") then
+    for _nx_qsdu16_i = 1, 3 do local _nx_qsdu16_c = _nx_qsdu16_a % 10; end
+else
+    local _nx_qsdu16_d = {} for _nx_qsdu16_j = 1, 3 do _nx_qsdu16_d[_nx_qsdu16_j] = _nx_qsdu16_j * _nx_qsdu16_a end
+end
+local _nx_qsdu16_f = function() return _nx_qsdu16_a + string.len(_nx_qsdu16_b) end
+if true then _nx_qsdu16_f(); end -- Junk call
+local _nx_xth12v_a = 4790 * 12 + (4790 / 3)
+local _nx_xth12v_b = "qjggza73g5" .. string.reverse("qjggza73g5")
+if (_nx_xth12v_a > 9999 and not false) or (_nx_xth12v_b ~= "abcdef") then
+    for _nx_xth12v_i = 1, 4 do local _nx_xth12v_c = _nx_xth12v_a % 6; end
+else
+    local _nx_xth12v_d = {} for _nx_xth12v_j = 1, 5 do _nx_xth12v_d[_nx_xth12v_j] = _nx_xth12v_j * _nx_xth12v_a end
+end
+local _nx_xth12v_f = function() return _nx_xth12v_a + string.len(_nx_xth12v_b) end
+if true then _nx_xth12v_f(); end -- Junk call
+local _nx_i2dj8c_a = 5363 * 12 + (5363 / 3)
+local _nx_i2dj8c_b = "fgzj1j9obi" .. string.reverse("fgzj1j9obi")
+if (_nx_i2dj8c_a > 9999 and not false) or (_nx_i2dj8c_b ~= "abcdef") then
+    for _nx_i2dj8c_i = 1, 5 do local _nx_i2dj8c_c = _nx_i2dj8c_a % 11; end
+else
+    local _nx_i2dj8c_d = {} for _nx_i2dj8c_j = 1, 4 do _nx_i2dj8c_d[_nx_i2dj8c_j] = _nx_i2dj8c_j * _nx_i2dj8c_a end
+end
+local _nx_i2dj8c_f = function() return _nx_i2dj8c_a + string.len(_nx_i2dj8c_b) end
+if false then _nx_i2dj8c_f(); end -- Junk call
+local _nx_z1j88t_a = 8930 * 12 + (8930 / 3)
+local _nx_z1j88t_b = "q2rt367zzb" .. string.reverse("q2rt367zzb")
+if (_nx_z1j88t_a > 9999 and not false) or (_nx_z1j88t_b ~= "abcdef") then
+    for _nx_z1j88t_i = 1, 1 do local _nx_z1j88t_c = _nx_z1j88t_a % 2; end
+else
+    local _nx_z1j88t_d = {} for _nx_z1j88t_j = 1, 3 do _nx_z1j88t_d[_nx_z1j88t_j] = _nx_z1j88t_j * _nx_z1j88t_a end
+end
+local _nx_z1j88t_f = function() return _nx_z1j88t_a + string.len(_nx_z1j88t_b) end
+if false then _nx_z1j88t_f(); end -- Junk call
+local _nx_tt34kd_a = 5714 * 12 + (5714 / 3)
+local _nx_tt34kd_b = "uejgy4q500" .. string.reverse("uejgy4q500")
+if (_nx_tt34kd_a > 9999 and not true) or (_nx_tt34kd_b ~= "abcdef") then
+    for _nx_tt34kd_i = 1, 5 do local _nx_tt34kd_c = _nx_tt34kd_a % 7; end
+else
+    local _nx_tt34kd_d = {} for _nx_tt34kd_j = 1, 4 do _nx_tt34kd_d[_nx_tt34kd_j] = _nx_tt34kd_j * _nx_tt34kd_a end
+end
+local _nx_tt34kd_f = function() return _nx_tt34kd_a + string.len(_nx_tt34kd_b) end
+if false then _nx_tt34kd_f(); end -- Junk call
+local _nx_r71opg_a = 8718 * 12 + (8718 / 3)
+local _nx_r71opg_b = "smyz29oqt9" .. string.reverse("smyz29oqt9")
+if (_nx_r71opg_a > 9999 and not true) or (_nx_r71opg_b ~= "abcdef") then
+    for _nx_r71opg_i = 1, 1 do local _nx_r71opg_c = _nx_r71opg_a % 5; end
+else
+    local _nx_r71opg_d = {} for _nx_r71opg_j = 1, 4 do _nx_r71opg_d[_nx_r71opg_j] = _nx_r71opg_j * _nx_r71opg_a end
+end
+local _nx_r71opg_f = function() return _nx_r71opg_a + string.len(_nx_r71opg_b) end
+if false then _nx_r71opg_f(); end -- Junk call
+local _nx_kvjsg7_a = 141 * 12 + (141 / 3)
+local _nx_kvjsg7_b = "caru8eka9x" .. string.reverse("caru8eka9x")
+if (_nx_kvjsg7_a > 9999 and not false) or (_nx_kvjsg7_b ~= "abcdef") then
+    for _nx_kvjsg7_i = 1, 5 do local _nx_kvjsg7_c = _nx_kvjsg7_a % 3; end
+else
+    local _nx_kvjsg7_d = {} for _nx_kvjsg7_j = 1, 3 do _nx_kvjsg7_d[_nx_kvjsg7_j] = _nx_kvjsg7_j * _nx_kvjsg7_a end
+end
+local _nx_kvjsg7_f = function() return _nx_kvjsg7_a + string.len(_nx_kvjsg7_b) end
+if false then _nx_kvjsg7_f(); end -- Junk call
+local _nx_goc2hh_a = 6695 * 12 + (6695 / 3)
+local _nx_goc2hh_b = "gotk3awpz4" .. string.reverse("gotk3awpz4")
+if (_nx_goc2hh_a > 9999 and not true) or (_nx_goc2hh_b ~= "abcdef") then
+    for _nx_goc2hh_i = 1, 4 do local _nx_goc2hh_c = _nx_goc2hh_a % 6; end
+else
+    local _nx_goc2hh_d = {} for _nx_goc2hh_j = 1, 1 do _nx_goc2hh_d[_nx_goc2hh_j] = _nx_goc2hh_j * _nx_goc2hh_a end
+end
+local _nx_goc2hh_f = function() return _nx_goc2hh_a + string.len(_nx_goc2hh_b) end
+if false then _nx_goc2hh_f(); end -- Junk call
+local _nx_j947hg_a = 9414 * 12 + (9414 / 3)
+local _nx_j947hg_b = "ssoqfef4oa" .. string.reverse("ssoqfef4oa")
+if (_nx_j947hg_a > 9999 and not true) or (_nx_j947hg_b ~= "abcdef") then
+    for _nx_j947hg_i = 1, 3 do local _nx_j947hg_c = _nx_j947hg_a % 10; end
+else
+    local _nx_j947hg_d = {} for _nx_j947hg_j = 1, 1 do _nx_j947hg_d[_nx_j947hg_j] = _nx_j947hg_j * _nx_j947hg_a end
+end
+local _nx_j947hg_f = function() return _nx_j947hg_a + string.len(_nx_j947hg_b) end
+if false then _nx_j947hg_f(); end -- Junk call
+local _nx_7xt4ec_a = 4844 * 12 + (4844 / 3)
+local _nx_7xt4ec_b = "c4i107rk93" .. string.reverse("c4i107rk93")
+if (_nx_7xt4ec_a > 9999 and not true) or (_nx_7xt4ec_b ~= "abcdef") then
+    for _nx_7xt4ec_i = 1, 5 do local _nx_7xt4ec_c = _nx_7xt4ec_a % 5; end
+else
+    local _nx_7xt4ec_d = {} for _nx_7xt4ec_j = 1, 5 do _nx_7xt4ec_d[_nx_7xt4ec_j] = _nx_7xt4ec_j * _nx_7xt4ec_a end
+end
+local _nx_7xt4ec_f = function() return _nx_7xt4ec_a + string.len(_nx_7xt4ec_b) end
+if false then _nx_7xt4ec_f(); end -- Junk call
+local _nx_xok2e2_a = 8967 * 12 + (8967 / 3)
+local _nx_xok2e2_b = "3kawkkaaqa" .. string.reverse("3kawkkaaqa")
+if (_nx_xok2e2_a > 9999 and not false) or (_nx_xok2e2_b ~= "abcdef") then
+    for _nx_xok2e2_i = 1, 4 do local _nx_xok2e2_c = _nx_xok2e2_a % 6; end
+else
+    local _nx_xok2e2_d = {} for _nx_xok2e2_j = 1, 2 do _nx_xok2e2_d[_nx_xok2e2_j] = _nx_xok2e2_j * _nx_xok2e2_a end
+end
+local _nx_xok2e2_f = function() return _nx_xok2e2_a + string.len(_nx_xok2e2_b) end
+if false then _nx_xok2e2_f(); end -- Junk call
+local _nx_n18j1z_a = 5937 * 12 + (5937 / 3)
+local _nx_n18j1z_b = "znujn586fs" .. string.reverse("znujn586fs")
+if (_nx_n18j1z_a > 9999 and not false) or (_nx_n18j1z_b ~= "abcdef") then
+    for _nx_n18j1z_i = 1, 4 do local _nx_n18j1z_c = _nx_n18j1z_a % 8; end
+else
+    local _nx_n18j1z_d = {} for _nx_n18j1z_j = 1, 3 do _nx_n18j1z_d[_nx_n18j1z_j] = _nx_n18j1z_j * _nx_n18j1z_a end
+end
+local _nx_n18j1z_f = function() return _nx_n18j1z_a + string.len(_nx_n18j1z_b) end
+if false then _nx_n18j1z_f(); end -- Junk call
+local _nx_4sizpa_a = 1443 * 12 + (1443 / 3)
+local _nx_4sizpa_b = "lapru7qu1t" .. string.reverse("lapru7qu1t")
+if (_nx_4sizpa_a > 9999 and not true) or (_nx_4sizpa_b ~= "abcdef") then
+    for _nx_4sizpa_i = 1, 1 do local _nx_4sizpa_c = _nx_4sizpa_a % 5; end
+else
+    local _nx_4sizpa_d = {} for _nx_4sizpa_j = 1, 3 do _nx_4sizpa_d[_nx_4sizpa_j] = _nx_4sizpa_j * _nx_4sizpa_a end
+end
+local _nx_4sizpa_f = function() return _nx_4sizpa_a + string.len(_nx_4sizpa_b) end
+if false then _nx_4sizpa_f(); end -- Junk call
+local _nx_s4xxxn_a = 7493 * 12 + (7493 / 3)
+local _nx_s4xxxn_b = "asj49dlieg" .. string.reverse("asj49dlieg")
+if (_nx_s4xxxn_a > 9999 and not true) or (_nx_s4xxxn_b ~= "abcdef") then
+    for _nx_s4xxxn_i = 1, 2 do local _nx_s4xxxn_c = _nx_s4xxxn_a % 7; end
+else
+    local _nx_s4xxxn_d = {} for _nx_s4xxxn_j = 1, 5 do _nx_s4xxxn_d[_nx_s4xxxn_j] = _nx_s4xxxn_j * _nx_s4xxxn_a end
+end
+local _nx_s4xxxn_f = function() return _nx_s4xxxn_a + string.len(_nx_s4xxxn_b) end
+if false then _nx_s4xxxn_f(); end -- Junk call
+local _nx_bb86xn_a = 75 * 12 + (75 / 3)
+local _nx_bb86xn_b = "cgglerl52d" .. string.reverse("cgglerl52d")
+if (_nx_bb86xn_a > 9999 and not false) or (_nx_bb86xn_b ~= "abcdef") then
+    for _nx_bb86xn_i = 1, 2 do local _nx_bb86xn_c = _nx_bb86xn_a % 8; end
+else
+    local _nx_bb86xn_d = {} for _nx_bb86xn_j = 1, 2 do _nx_bb86xn_d[_nx_bb86xn_j] = _nx_bb86xn_j * _nx_bb86xn_a end
+end
+local _nx_bb86xn_f = function() return _nx_bb86xn_a + string.len(_nx_bb86xn_b) end
+if true then _nx_bb86xn_f(); end -- Junk call
+local _nx_y4wo9r_a = 8818 * 12 + (8818 / 3)
+local _nx_y4wo9r_b = "bd17deuit6" .. string.reverse("bd17deuit6")
+if (_nx_y4wo9r_a > 9999 and not false) or (_nx_y4wo9r_b ~= "abcdef") then
+    for _nx_y4wo9r_i = 1, 3 do local _nx_y4wo9r_c = _nx_y4wo9r_a % 8; end
+else
+    local _nx_y4wo9r_d = {} for _nx_y4wo9r_j = 1, 3 do _nx_y4wo9r_d[_nx_y4wo9r_j] = _nx_y4wo9r_j * _nx_y4wo9r_a end
+end
+local _nx_y4wo9r_f = function() return _nx_y4wo9r_a + string.len(_nx_y4wo9r_b) end
+if false then _nx_y4wo9r_f(); end -- Junk call
+local _nx_m0qlkf_a = 8221 * 12 + (8221 / 3)
+local _nx_m0qlkf_b = "1zgleur318" .. string.reverse("1zgleur318")
+if (_nx_m0qlkf_a > 9999 and not false) or (_nx_m0qlkf_b ~= "abcdef") then
+    for _nx_m0qlkf_i = 1, 3 do local _nx_m0qlkf_c = _nx_m0qlkf_a % 6; end
+else
+    local _nx_m0qlkf_d = {} for _nx_m0qlkf_j = 1, 2 do _nx_m0qlkf_d[_nx_m0qlkf_j] = _nx_m0qlkf_j * _nx_m0qlkf_a end
+end
+local _nx_m0qlkf_f = function() return _nx_m0qlkf_a + string.len(_nx_m0qlkf_b) end
+if false then _nx_m0qlkf_f(); end -- Junk call
+local _nx_p6miko_a = 8639 * 12 + (8639 / 3)
+local _nx_p6miko_b = "g8z0104xnk" .. string.reverse("g8z0104xnk")
+if (_nx_p6miko_a > 9999 and not true) or (_nx_p6miko_b ~= "abcdef") then
+    for _nx_p6miko_i = 1, 4 do local _nx_p6miko_c = _nx_p6miko_a % 5; end
+else
+    local _nx_p6miko_d = {} for _nx_p6miko_j = 1, 3 do _nx_p6miko_d[_nx_p6miko_j] = _nx_p6miko_j * _nx_p6miko_a end
+end
+local _nx_p6miko_f = function() return _nx_p6miko_a + string.len(_nx_p6miko_b) end
+if false then _nx_p6miko_f(); end -- Junk call
+ -- INICIO DE JUNK EXPLOSIVO (Bloque 1 de 100)
+
+local _LXV_VM_KEY = "r5rz1tw6vop"
+local _LXV_BYTECODE = "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"
+
+local function _LXV_VM_DECODE(bytecode, key)
+    local decoded = ""
+    local raw = game:GetService("HttpService"):Base64Decode(bytecode)
+    for i = 1, #raw do
+        decoded = decoded .. string.char(bit.bxor(string.byte(raw, i), string.byte(key, (i - 1) % #key + 1)))
+    end
+    return game:GetService("HttpService"):Base64Decode(decoded)
+end
+
+-- Simulación de Sistema Proxy de Llamadas (para ocultar funciones)
+local _LXV_PROXY_ENV = {}
+setmetatable(_LXV_PROXY_ENV, {
+    __index = function(self, k)
+        -- Puedes añadir aquí un log o más ofuscación si el executor permite
+        if _G[k] then return _G[k] end
+        print("NEXUS GENESIS: Acceso a variable/función no proxificada: " .. k)
+        return nil
+    end,
+    __newindex = function(self, k, v)
+        -- Ocultar la escritura de variables importantes
+        rawset(self, k, v)
+    end
+})
+
+local _LXV_VM_EXEC = _LXV_VM_DECODE(_LXV_BYTECODE, _LXV_VM_KEY)
+
+-- Protección avanzada del loadstring
+pcall(function()
+    local old_gs = getfenv().getservice or game.getservice
+    local old_getfenv = getfenv
+    local old_setfenv = setfenv
+
+    local function vm_secure_loadstring(code)
+        -- Aquí el código se reconstruiría por capas en un executor real
+        local chunk = loadstring(code)
+        if chunk then
+            -- Intentar configurar un entorno proxy para el script real
+            setfenv(chunk, _LXV_PROXY_ENV)
+            return chunk
+        end
+        return nil
+    end
+
+    vm_secure_loadstring(_LXV_VM_EXEC)()
+end)
+
+local _nx_g8vomo_a = 2106 * 12 + (2106 / 3)
+local _nx_g8vomo_b = "f791v5ma5c" .. string.reverse("f791v5ma5c")
+if (_nx_g8vomo_a > 9999 and not true) or (_nx_g8vomo_b ~= "abcdef") then
+    for _nx_g8vomo_i = 1, 4 do local _nx_g8vomo_c = _nx_g8vomo_a % 10; end
+else
+    local _nx_g8vomo_d = {} for _nx_g8vomo_j = 1, 1 do _nx_g8vomo_d[_nx_g8vomo_j] = _nx_g8vomo_j * _nx_g8vomo_a end
+end
+local _nx_g8vomo_f = function() return _nx_g8vomo_a + string.len(_nx_g8vomo_b) end
+if false then _nx_g8vomo_f(); end -- Junk call
+ -- FINAL DE JUNK EXPLOSIVO (Bloque 100 de 100)
