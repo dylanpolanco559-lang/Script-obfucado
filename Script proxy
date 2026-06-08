@@ -1,0 +1,136 @@
+local player = game.Players.LocalPlayer
+local rs = game:GetService("ReplicatedStorage")
+local remote = rs:WaitForChild("Packages"):WaitForChild("Networking"):WaitForChild("RE/Events/CollectEventSpawnable")
+
+local textchatservice = game:GetService("TextChatService")
+local players = game:GetService("Players")
+local localplayer = players.LocalPlayer
+local mod_text = "<font color='rgb(220,250,255)'>[MOD]</font> <font color='rgb(170,0,255)'>LX</font>"
+local name_only = "<font color='rgb(170,0,255)'>LX</font>"
+local final_name = "LX"
+
+textchatservice.OnIncomingMessage = function(message)
+    local props = Instance.new("TextChatMessageProperties")
+    local source = message.TextSource
+    if not source then return props end
+    local p = players:GetPlayerByUserId(source.UserId)
+    if not p then return props end
+    if p.UserId == localplayer.UserId then
+        props.PrefixText = mod_text
+    end
+    return props
+end
+
+local function isleaderboard(v)
+    return v:FindFirstAncestor("PlayerList") or v:FindFirstAncestorWhichIsA("ScrollingFrame")
+end
+
+local function containsname(text)
+    local t = string.lower(text)
+    return string.find(t, string.lower(localplayer.Name)) or string.find(t, string.lower(localplayer.DisplayName))
+end
+
+local function replacesafe(text)
+    text = string.gsub(text, localplayer.Name, final_name)
+    text = string.gsub(text, localplayer.DisplayName, final_name)
+    return text
+end
+
+local function apply(v)
+    if not (v:IsA("TextLabel") or v:IsA("TextButton") or v:IsA("TextBox")) then return end
+    if not containsname(v.Text) then return end
+    v.RichText = true
+    if isleaderboard(v) then
+        local newText = replacesafe(v.Text)
+        v.Text = string.gsub(newText, final_name, name_only)
+    else
+        v.Text = mod_text
+    end
+    if v:IsA("TextLabel") or v:IsA("TextButton") then
+        v.TextStrokeTransparency = 0
+        v.TextStrokeColor3 = Color3.new(0,0,0)
+    end
+end
+
+local function hook(v)
+    apply(v)
+    if v:IsA("TextLabel") or v:IsA("TextButton") or v:IsA("TextBox") then
+        v:GetPropertyChangedSignal("Text"):Connect(function()
+            apply(v)
+        end)
+    end
+end
+
+for _, v in pairs(game:GetDescendants()) do
+    hook(v)
+end
+
+game.DescendantAdded:Connect(hook)
+
+local activo = false
+
+local gui = Instance.new("ScreenGui")
+gui.Name = "LXFarm"
+gui.ResetOnSpawn = false
+gui.Parent = player:WaitForChild("PlayerGui")
+
+local frame = Instance.new("Frame")
+frame.Size = UDim2.new(0, 240, 0, 110)
+frame.Position = UDim2.new(0.5, -120, 0.8, 0)
+frame.BackgroundColor3 = Color3.fromRGB(18, 18, 28)
+frame.BorderSizePixel = 2
+frame.BorderColor3 = Color3.fromRGB(255, 180, 80)
+frame.Active = true
+frame.Draggable = true
+frame.Parent = gui
+
+local corner = Instance.new("UICorner")
+corner.CornerRadius = UDim.new(0, 12)
+corner.Parent = frame
+
+local title = Instance.new("TextLabel")
+title.Size = UDim2.new(1, 0, 0, 35)
+title.BackgroundColor3 = Color3.fromRGB(28, 28, 42)
+title.Text = "LX FARM"
+title.TextColor3 = Color3.fromRGB(255, 200, 100)
+title.Font = Enum.Font.GothamBold
+title.TextSize = 16
+title.Parent = frame
+
+local btn = Instance.new("TextButton")
+btn.Size = UDim2.new(0.7, 0, 0, 45)
+btn.Position = UDim2.new(0.15, 0, 0, 45)
+btn.BackgroundColor3 = Color3.fromRGB(200, 50, 50)
+btn.Text = "EVENT VERANO"
+btn.TextColor3 = Color3.fromRGB(255, 255, 255)
+btn.Font = Enum.Font.GothamBold
+btn.TextSize = 14
+btn.Parent = frame
+
+local btnCorner = Instance.new("UICorner")
+btnCorner.CornerRadius = UDim.new(0, 10)
+btnCorner.Parent = btn
+
+local function farmear()
+    while activo do
+        for i = 1, 500 do
+            if not activo then break end
+            pcall(function()
+                remote:FireServer()
+            end)
+        end
+        task.wait()
+    end
+end
+
+btn.MouseButton1Click:Connect(function()
+    activo = not activo
+    if activo then
+        btn.BackgroundColor3 = Color3.fromRGB(60, 130, 200)
+        btn.Text = "EVENT VERANO"
+        coroutine.wrap(farmear)()
+    else
+        btn.BackgroundColor3 = Color3.fromRGB(200, 50, 50)
+        btn.Text = "EVENT VERANO"
+    end
+end)
